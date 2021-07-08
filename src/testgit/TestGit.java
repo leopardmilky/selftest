@@ -7,6 +7,7 @@ public class TestGit {
 		
 		System.out.println("±êÇé¿¡ ¿Ã¶ó°¬³ª? ¾û?");
 		System.out.println("ÀÌ°Ç commit and push");
+		System.out.println("¿Ö¾ÈµÅ È­³ª°Ô ÇÏÁö¸¶¶ó");
 		
 		
 	}
